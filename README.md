@@ -4,7 +4,7 @@ Data Links : https://www.ncbi.nlm.nih.gov/sra?term=SRP557307
 Hello! This project is part of the **Summer ITCGA Workshop at UMass Boston**, in collaboration with **Dana-Farber: Integrated Training in Computational Genomics and Data Sciences**.
 
 ###  Project Overview
-- NO production significantly shapes IFN-y inducled reprogramming in macraphapes **magnetic nanoparticles (MNPs)**.
+- NO production significantly shapes IFN-y induced reprogramming in macraphapes **white blood cells (WBCs)**.
 - IFN-y increases NO and lactate levels while reducing macrophage survival  **Blocking NO reverses these effects**, IFN-y also boosts:
   - NAD+ producing genes linking metabolism to immune activity
   - Inhibits NAD+ pathways to lower NO and improve survival 
