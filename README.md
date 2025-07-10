@@ -5,7 +5,7 @@ Hello! This project is part of the **Summer ITCGA Workshop at UMass Boston**, in
 
 ###  Project Overview
 - NO production significantly shapes IFN-y induced reprogramming in macraphapes **white blood cells (WBCs)**.
-- IFN-y increases NO and lactate levels while reducing macrophage survival  **Blocking NO reverses these effects**, IFN-y also boosts:
+- IFN-y increases NO and lactate levels while reducing macrophage survival  **blocking NO reverses these effects**, IFN-y also boosts:
   - NAD+ producing genes linking metabolism to immune activity
   - Inhibits NAD+ pathways to lower NO and improve survival 
 - Overall Role:
